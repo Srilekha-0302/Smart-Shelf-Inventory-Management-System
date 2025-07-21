@@ -30,25 +30,18 @@
 | expiry_date   | DATE        | Expiration date of the product |
 | category      | VARCHAR     | Product category               |
 
----
 
-## 📸 Screenshots
-
-_Add screenshots here of the login page, dashboard, alerts, and sales form for a complete showcase._
-
----
 
 ## 👨‍💻 Authors
 
-- 🧠 **Ravuri Sai Srilekha** – Frontend & Backend Developer  
-- 💡 [Add your teammates here, if any]
+- **Ravuri Sai Srilekha**
+- **Somapuram Sahithi**
 
 ---
 
 ## 📄 Documentation
 
 📄 Full project documentation: [Smart Shelf – Google Doc](https://docs.google.com/document/d/1E0RsS3dFs4Y6onUgT6YszVDBl5Nbln9g/edit?rtpof=true)  
-📎 You can also add a `docs/SmartShelf-Documentation.pdf` in your repo.
 
 ---
 
