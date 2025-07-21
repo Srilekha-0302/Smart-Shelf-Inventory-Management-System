@@ -38,6 +38,24 @@
 - **Somapuram Sahithi**
 
 ---
+## 📸 Screenshots
+
+### 🛒 Login Page
+![Dashboard](Images/Screenshot%20(30).png)
+
+### 🛒 Dashboard View
+![Dashboard](Images/Screenshot%20(31).png)
+
+### 📈 Most Popular Product Insights
+![Expiry](Images/Screenshot%20(35).png)
+
+### ⏰ Heat Maps
+![Popular Product](Images/Screenshot%20(36).png)
+
+### 🔐 Cashier Page
+![Login](Images/Screenshot%20(37).png)
+
+---
 
 ## 📄 Documentation
 
