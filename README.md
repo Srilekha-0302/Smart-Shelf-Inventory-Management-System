@@ -76,4 +76,3 @@
 
 To solve real-world inventory challenges in retail environments with a smart, scalable solution that blends simplicity and efficiency.
 
-> *"Keeping your shelves smart and your heart full, just like you do to mine, love." 🌷*
